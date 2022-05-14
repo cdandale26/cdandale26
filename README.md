@@ -1,6 +1,5 @@
 - 👋 Hi, I am Chaitali..
 - 👀 My interests include listening to Tech podcasts, writing code and baking:yum:. 
-- 🌱 I’m currently learning Docker and going through a bootcamp.
 - 💞️ would love to collaborate on MERN stack projects.
 - 🤑 New interests: Codewars and increasing typing speed to 130wpm(Current speed ... just 45🙊)
 - 📜 Fav Quote: In order to attain the impossible, one must attempt the absurd.
